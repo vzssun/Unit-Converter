@@ -1,6 +1,6 @@
 # Unit Converter
 
-A web app that helps the user convert units, be it temperature, distance, or weight.
+A web app that helps the user convert units, be it temperature, distance, or weight. Be aware that weight is currently W.I.P
 
 🔗 **[Live Demo](https://incomparable-tapioca-514729.netlify.app/)**
 
